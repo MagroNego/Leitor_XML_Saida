@@ -1,0 +1,2 @@
+# Interface
+Modo Operate. Ferramenta fiscal no navegador local. Cabeçalho com identidade tipográfica, navegação superior por abas Importar XMLs / Relatórios / Processamento / Como usar. Azul sóbrio nas ações, fundos neutros, tipografia do sistema adequada à rotina Windows. Modo claro e escuro com preferência local. Tabelas densas, busca e paginação. Uma ação principal por etapa, vazios explicativos, erros por arquivo e progresso verdadeiro. Mobile reorganiza navegação e formulário; tabelas rolam horizontalmente.

@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.venv/
+build/
+dist/
+*.xml
+*.XML
+*.csv
+*.xlsx
+*.log
+*.pfx
+*.p12
+secrets/
+.env
